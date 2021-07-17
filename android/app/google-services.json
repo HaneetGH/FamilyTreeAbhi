@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "328235466524",
+    "firebase_url": "https://familytree-2a7ca.firebaseio.com",
+    "project_id": "familytree-2a7ca",
+    "storage_bucket": "familytree-2a7ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328235466524:android:d760726a98b6a8d00bc4d9",
+        "android_client_info": {
+          "package_name": "com.application.familytree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328235466524-t28o87ufrct5bivtsbo9ehsreo7e5udu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWaJ6A4lvT1HHzSfU9eGgppsN2kzmuiHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328235466524-t28o87ufrct5bivtsbo9ehsreo7e5udu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "328235466524-v8klfo6vqd3d7nbbidihf4vsgnltbppm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.FamilyTree"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
